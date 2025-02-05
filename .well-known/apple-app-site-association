@@ -2,7 +2,7 @@
   "applinks": {
       "details": [
            {
-             "appIDs": [ "com.kmorley.Searchino.watchkitapp" ],
+             "appIDs": [ "com.kmorley.Searchino" ],
              "components": [
                {
                   "/": "/flicktype/*",
